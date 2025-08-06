@@ -40,7 +40,7 @@ A modern full-stack web app that offers AI-powered utilities like image generati
  🛠️ Installation
 
 🚩 Clone the repo
-git clone https://github.com/yourname/starkdesk-ai.git
+git clone https://github.com/adarsh005599/StarDesk
 cd starkdesk-ai
 
 npm install

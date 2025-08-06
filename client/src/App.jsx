@@ -10,7 +10,7 @@ import BlogTitles from './pages/BlogTitles.jsx'
 import RemoveBag from './pages/RemoveBag.jsx'
 import Removeobj from './pages/Removeobj.jsx'
 import GenreateImages from './pages/GenreateImages.jsx'
-import Community from './pages/community.jsx'
+import Community from './pages/Community.jsx'
 import Reviewresume from './pages/Reviewresume.jsx'
 import { Toaster } from 'react-hot-toast'
 

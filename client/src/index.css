@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+  font-family: "Outfit", sans-serif;
+  scroll-behavior: smooth; /* ✅ Smooth scroll */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+  color: #ffffff;
+  overflow-x: hidden;
+  position: relative;
+  background-color: #000000; /* fallback */
+}
+header {
+  font-family: 'Poppins', sans-serif;
+  transition: all 0.3s ease;
+}
+
+/* 🧊 Glassy blurred background layer */
+
+/* 💡 Gentle entrance animation */
+@keyframes fadeInUp {
+  0% {
+    transform: translateY(12px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.fade-up {
+  animation: fadeInUp 0.7s ease-out both;
+}
+.btn-primary {
+  background: linear-gradient(135deg, #FF6A3D, #C833FF);
+  color: #fff;
+  padding: 12px 24px;
+  border-radius: 12px;
+  font-weight: 600;
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(200, 51, 255, 0.4);
+}
+
+.reset-tw, .reset-tw *{
+  all: revert !important;
+}
+.cl-drawerRoot{
+  z-index: 10;
+}
+
+
+.typing-text {
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 2px solid #4ade80;
+  animation: typing 3s steps(30, end), blink 0.75s step-end infinite;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+
+@keyframes blink {
+  50% {
+    border-color: transparent;
+  }
+}
+
+/* Optional stars effect background */
+.stars::before {
+  content: '';
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  background: white;
+  box-shadow: 
+    20px 30px white,
+    40px 60px white,
+    60px 90px white,
+    80px 120px white,
+    100px 150px white;
+  animation: twinkling 1.5s infinite alternate;
+}
+
+@keyframes twinkling {
+  from {
+    opacity: 0.3;
+  }
+  to {
+    opacity: 1;
+  }
+}

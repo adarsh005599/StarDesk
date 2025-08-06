@@ -33,6 +33,11 @@ A modern full-stack web app that offers AI-powered utilities like image generati
 - Drizzle ORM or `pg`
 - Clerk (Auth)
 - OpenAI / ClipDrop API (for AI tools)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node](https://img.shields.io/badge/Backend-Node.js-green)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
+![Render](https://img.shields.io/badge/Hosted%20On-Render-orange)
+
 
 **Deployment:**
 - Render (backend & database)

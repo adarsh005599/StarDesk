@@ -3,6 +3,7 @@
 A modern full-stack web app that offers AI-powered utilities like image generation, background removal, article writing, and more. Built with the PERN stack (PostgreSQL, Express, React, Node.js) and integrated with Clerk for authentication.
 👉 [View Live App](https://star-desk.vercel.app)
 
+
 ## ✨ Features
 
 - 🔐 Clerk authentication (OAuth + JWT)

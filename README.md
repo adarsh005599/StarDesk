@@ -4,6 +4,10 @@ A modern full-stack web app that offers AI-powered utilities like image generati
 👉 [View Live App](https://star-desk.vercel.app)
 
 
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
+![Render](https://img.shields.io/badge/Hosted%20On-Render-orange)
 ## ✨ Features
 
 - 🔐 Clerk authentication (OAuth + JWT)

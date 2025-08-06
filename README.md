@@ -1,6 +1,7 @@
 # Project Name — StarkDesk 
 
 A modern full-stack web app that offers AI-powered utilities like image generation, background removal, article writing, and more. Built with the PERN stack (PostgreSQL, Express, React, Node.js) and integrated with Clerk for authentication.
+👉 [View Live App](https://star-desk.vercel.app)
 
 ## ✨ Features
 
@@ -36,6 +37,13 @@ A modern full-stack web app that offers AI-powered utilities like image generati
 - Render (backend & database)
 - Render (frontend)
 
+## 📸 Sample Creations
+
+Here are a few recent AI-generated samples:
+
+| Sample 1 | Sample 2 | Sample 3 |
+|----------|----------|----------|
+| ![Sample 1](assets/Screenshot(168).png) | ![Sample 2](assets/Screenshot(169).png) | ![Sample 3](assets/Screenshot(171).png |
 ---
  🛠️ Installation
 

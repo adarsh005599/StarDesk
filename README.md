@@ -43,7 +43,7 @@ Here are a few recent AI-generated samples:
 
 | Sample 1 | Sample 2 | Sample 3 |
 |----------|----------|----------|
-| ![Sample 1](assets/Screenshot(168).png) | ![Sample 2](assets/Screenshot(169).png) | ![Sample 3](assets/Screenshot(171).png |
+| ![Sample 1](assets/Screenshot%20(168).png) | ![Sample 2](assets/Screenshot(169).png) | ![Sample 3](assets/Screenshot(171).png |
 ---
  🛠️ Installation
 

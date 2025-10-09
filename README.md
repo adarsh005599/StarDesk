@@ -4,7 +4,7 @@ A modern full-stack web app that offers AI-powered utilities like image generati
 👉 [View Live App](https://star-desk.vercel.app)
 
 Actual payments are on the way!!
-
+Either by Razorpay or Stripe 
 ## ✨ Features
 
 - 🔐 Clerk authentication (OAuth + JWT)

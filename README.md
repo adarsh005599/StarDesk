@@ -34,6 +34,7 @@ Either by Razorpay or Stripe
 - Drizzle ORM or `pg`
 - Clerk (Auth)
 - OpenAI / ClipDrop API (for AI tools)
+- 
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![Node](https://img.shields.io/badge/Backend-Node.js-green)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)

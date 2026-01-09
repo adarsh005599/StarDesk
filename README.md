@@ -18,7 +18,7 @@ Either by Razorpay or Stripe
 - ❤️ Like/download shared content (Community)
 - 🌐 Responsive and modern UI (Tailwind CSS + Framer Motion)
 
----
+
 
 ## 🧰 Tech Stack
 

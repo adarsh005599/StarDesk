@@ -20,7 +20,7 @@ Either by Razorpay or Stripe
 
 
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
 **Frontend:**
 - React + Vite

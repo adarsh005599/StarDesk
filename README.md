@@ -9,7 +9,6 @@ Built using the PERN stack (PostgreSQL, Express, React, Node.js) and integrated 
 ---
 
 ## ✨ Features
-
 ### 🔐 Authentication & Security
 - Clerk authentication (OAuth + JWT)
 - Secure and scalable user access

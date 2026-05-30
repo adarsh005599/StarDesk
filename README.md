@@ -6,7 +6,7 @@ Built using the PERN stack (PostgreSQL, Express, React, Node.js) and integrated 
 
 👉 Live Application: https://star-desk.vercel.app
 
----
+--
 
 ## ✨ Features
 ### 🔐 Authentication & Security
